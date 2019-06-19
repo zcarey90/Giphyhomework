@@ -1,0 +1,37 @@
+body {
+  background-color: aquamarine;
+}
+
+#cars {
+  color: navajowhite;
+  background-color: blue;
+  font-size: 25px;
+}
+
+#Fiat {
+  font-size: 30px;
+  font-style: bold;
+}
+
+#cars-input {
+  font-size: 25px;
+}
+
+#buttons-style {
+}
+
+.car {
+  background-color: blue;
+  color: navajowhite;
+  font-size: 25px;
+}
+
+.gif {
+  margin: 20px;
+}
+
+.rating {
+  padding-bottom: 20px;
+  font-size: 30px;
+  align-content: center;
+}
